@@ -1,0 +1,35 @@
+button:hover {
+  margin-left: 8px;
+  margin-right: 8px;
+  background-color: rgb(47, 128, 114);
+  color: white;
+  transform: scale(1.1);
+}
+button {
+  border: 1px solid rgb(154, 255, 134);
+  border-radius: 5px;
+}
+.mac-price {
+  padding-left: 103px;
+}
+.memory-cost {
+  padding-left: 65px;
+}
+.storage-cost {
+  padding-left: 74px;
+}
+.delivery-cost {
+  padding-left: 120px;
+}
+.total-cost {
+  padding-left: 150px;
+}
+.offer-cost {
+  padding-left: 145px;
+}
+hr.last {
+  border: 2px solid rgb(248, 2, 2);
+}
+button:focus {
+  background-color: rgb(189, 219, 15);
+}
